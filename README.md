@@ -5,6 +5,9 @@ This repository contains a collection of useful scripts for Unity game developme
 - `NavmeshKnockback.cs`: a script that applies a knockback force to a navmesh agent.
 - `ScaleDownOverTime.cs`: a script that scales down an object over a specified duration.
 - `WallClippingPrevention.cs`: a script that prevents objects from clipping through walls.
+- `Billboard`: a script that makes the game object face the main camera.
+- `DestroyAfterDuration`: a script that destroys the game object after a set duration.
+- `FollowTarget`
 
 ## Getting Started
 
@@ -20,4 +23,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LIC
 
 ## Acknowledgments
 
-These scripts were developed by Lost Crow Games and are provided as-is without any warranty or guarantee of fitness for any particular purpose. Use at your own risk.
+These scripts were developed by Robin Cormie @ Lost Crow Games and are provided as-is without any warranty or guarantee of fitness for any particular purpose. Use at your own risk.
